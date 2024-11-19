@@ -1,0 +1,14 @@
+[{
+  "modid": "rawinput",
+  "name": "Raw Input - Blessed Edition",
+  "description": "Adds raw input to minecraft 1.9~1.10.2.",
+  "version": "1.6.2",
+  "mcversion": "1.9-1.10.2",
+  "url": "https://github.com/MARYT-Studio/RawInputMod-BlessedEdition",
+  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/raw-mouse-input-blessed-edition",
+  "authorList": ["MARYT Studio"],
+  "credits": "Fork from seanld, xCuri0, and Fluorides",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
